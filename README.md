@@ -5,4 +5,4 @@
 
 | Название проекта      | Описание               | Используемые библиотеки     |
 | :-------------------- | :--------------------- |:---------------------------:|
-| Отток клиентов банка  | с выравниванием справа | pandas, matplotlib, sklearn(RandomForestClassifier, LogisticRegression, train_test_split, OrdinalEncoder, StandardScaler, shuffle|
+| Отток клиентов банка  | с выравниванием справа | pandas, matplotlib, sklearn(RandomForestClassifier, LogisticRegression, train_test_split, OrdinalEncoder, StandardScaler, shuffle)|
